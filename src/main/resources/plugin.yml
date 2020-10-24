@@ -1,6 +1,9 @@
-name: @name@
-main: @groupId@.@name@.@name@
-version: @version@
-author: @author@
-api-version: @apiVersion@
-
+name: GamemodeGuiFixer
+main: nl.thedutchmc.GamemodeGuiFixer.GamemodeGuiFixer
+version: 1.0
+author: TheDutchMC
+api-version: 1.16
+permissions:
+ ggf.use:
+  description: Use this plugin
+  default: op
